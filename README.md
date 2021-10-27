@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stefanpost268
+- 👋 Hi, I’m @Hero268
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#, HTML,Java.
+- 🌱 I’m currently learning PHP, JavaScript, C#.
 - 💞️ I’m looking to collaborate on Nothing.
 - 📫 How to reach me 97079064@st.deltion.nl
 
